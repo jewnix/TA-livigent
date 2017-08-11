@@ -1,0 +1,6 @@
+decision,action
+POLICY_OK,allowed
+POLICY_HTTP_BLOCK,blocked
+POLICY_HTTP_ALTER_SKIN,allowed
+POLICY_HTTP_FAKE_EMPTY,allowed
+POLIYC_HTTP_ALTER_IMAGE,allowed

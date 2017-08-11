@@ -1,0 +1,15 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[app/install/state]
+version = 6.3.0
+modtime = 1446760621.931206000
+
+[lookups/livigent_dns_lookups.csv]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = mayert
+version = 6.3.0
+modtime = 1454972492.055444000
+
